@@ -22,3 +22,6 @@ print("Мой точный возраст в днях", my_accurate_age)
 print("День недели", today_weekday)
 print("Точное время", current_time.strftime("%H:%M:%S"))
 print("Сегодняшний вайб", my_current_vibe)
+
+
+А вот это я добавил в веб версии Гита. Проверить пуш))
